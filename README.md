@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kerim Karaman</h1>
+
+<img align="center" alt="coder" width="400" src="https://media4.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=790b7611404f58614288023b7ed29c860d3cd40d89b40f65&rid=giphy.gif&ct=s" style="max-width: 100%;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerimkaraman&label=Profile%20views&color=0e75b6&style=flat" alt="kerimkaraman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kerimkaraman" alt="kerimkaraman" /></a> </p>
