@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kerim Karaman</h1>
+<h1 align="center">Hi I'm Kerim Karaman</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerimkaraman&label=Profile%20views&color=0e75b6&style=flat" alt="kerimkaraman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kerimkaraman" alt="kerimkaraman" /></a> </p>
 
-- 🌱 I’m currently learning **React and Firebase**
-
-- 💬 Ask me about **react,html,css,js**
 
 - 📫 How to reach me **kerim282841@gmail.com**
 
